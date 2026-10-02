@@ -96,11 +96,12 @@ button:hover {
     text-align: center;
 }
 
-.thanks-page {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+.thanks-page h1 {
+    margin: 0;
+    padding: 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
 
   @media (max-width: 600px) {
     button {
