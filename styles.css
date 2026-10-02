@@ -102,7 +102,7 @@ button:hover {
     align-items: center;
     justify-content: center;
 
-    @media (max-width: 600px) {
+  @media (max-width: 600px) {
     button {
         font-size: 16px;
         letter-spacing: 4px;
@@ -112,5 +112,9 @@ button:hover {
 
     button::after {
         margin-left: 10px;
+    }
+
+    .thanks-page h1 {
+        font-size: 20px;
     }
 } 
