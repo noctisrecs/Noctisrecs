@@ -127,3 +127,11 @@ button:hover {
         font-size: 18px;
     }
 }
+
+.thanks-page .poster {
+  display: block;
+  max-width: 100%;
+  width: 480px;
+  height: auto;
+  margin: 24px auto 0;
+}
