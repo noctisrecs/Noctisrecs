@@ -130,8 +130,16 @@ button:hover {
 
 .thanks-page .poster {
   display: block;
-  max-width: 100%;
-  width: 480px;
+  width: 100%;
+  max-width: 480px;
   height: auto;
-  margin: 24px auto 0;
+  margin: 0 auto 32px;
+}
+
+.thanks-page h1 {
+  margin: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  line-height: 1.4;
 }
